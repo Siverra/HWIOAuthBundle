@@ -67,12 +67,6 @@
             "homepage": "https://github.com/hwi/HWIOAuthBundle/contributors"
         }
     ],
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/Siverra/Buzz.git"
-      }
-    ],
     "require": {
         "php":                          ">=5.3.3",
         "symfony/framework-bundle":     "~2.3",
